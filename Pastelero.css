@@ -1,0 +1,14 @@
+* {
+ font-family: Arial, Helvetica, sans-serif;
+}
+.index {
+ background-color: rgba(246, 155, 235, 0.744);
+
+}
+.past {
+ background-color: rgba(246, 155, 235, 0.744);
+ padding: 10px;
+ text-align: center;
+ font-size: 10px;
+ color: white;
+}
